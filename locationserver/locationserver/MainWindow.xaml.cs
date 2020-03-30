@@ -1,18 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
-using System.Runtime.InteropServices;
 using System.Net;
 using System.Net.Sockets;
 using System.IO;
@@ -229,7 +218,7 @@ namespace locationserver
                     }
                     #endregion
 
-                    #region ------------------------------------------------Whois------------------------------------------------
+                    #region -------------------------------------------------Whois--------------------------------------------------
                     else if (sectionWhois.Length == 2) //Otherwise if the line received's length is 2
                     {
                         sw.Write("OK\r\n"); //Send an OK to the client

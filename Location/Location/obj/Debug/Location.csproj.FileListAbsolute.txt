@@ -1,0 +1,14 @@
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\bin\Debug\Location.exe.config
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\bin\Debug\Location.exe
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\bin\Debug\Location.pdb
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\obj\Debug\Location.csprojAssemblyReference.cache
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\obj\Debug\MainWindow.g.cs
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\obj\Debug\App.g.cs
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\obj\Debug\Location_MarkupCompile.cache
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\obj\Debug\Location_MarkupCompile.lref
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\obj\Debug\MainWindow.baml
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\obj\Debug\Location.g.resources
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\obj\Debug\Location.Properties.Resources.resources
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\obj\Debug\Location.csproj.GenerateResource.cache
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\obj\Debug\Location.exe
+C:\Users\skq09\Documents\GitHub\Networking\Location\Location\obj\Debug\Location.pdb

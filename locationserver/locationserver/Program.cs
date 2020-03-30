@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Runtime.InteropServices;
 using System.Net;
 using System.Net.Sockets;
@@ -19,9 +16,7 @@ namespace locationserver
 
         static Dictionary<string, string> dictionary = new Dictionary<string, string>();
 
-        [STAThread]
-
-        
+        [STAThread]      
         public static int Main(string[] args)
         {
             bool consoleMode = true;
